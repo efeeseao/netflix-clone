@@ -25,32 +25,32 @@ export default {
 	data() {
 	return {
 		items: [
-				{id: 1, title: 'FAQ'},
-				{id: 2, title: 'Investor Relations'},
-				{id: 3, title: 'Ways To Watch'},
-				{id: 4, title: 'Corporate Information'},
-				{id: 5, title: 'Netflix Originals'}
+			{id: 1, title: 'FAQ'},
+			{id: 2, title: 'Investor Relations'},
+			{id: 3, title: 'Ways To Watch'},
+			{id: 4, title: 'Corporate Information'},
+			{id: 5, title: 'Netflix Originals'}
 			],
 
 		lists:[
-				{id: 1, title: 'Help Center'},
-				{id: 2, title: 'Jobs'},
-				{id: 3, title: 'Terms Of Use'},
-				{id: 4, title: 'Contact Us'}
+			{id: 1, title: 'Help Center'},
+			{id: 2, title: 'Jobs'},
+			{id: 3, title: 'Terms Of Use'},
+			{id: 4, title: 'Contact Us'}
 			],
 
 		links: [
-				{id: 1, title: 'Account'},
-				{id: 2, title: 'Redeem Gift Cards'},
-				{id: 3, title: 'Privacy'},
-				{id: 4, title: 'Speed Test'}
+			{id: 1, title: 'Account'},
+			{id: 2, title: 'Redeem Gift Cards'},
+			{id: 3, title: 'Privacy'},
+			{id: 4, title: 'Speed Test'}
 			],
 
 		notices: [
-				 {id: 1, title: 'Media Center'},
-				 {id: 2, title: 'Buy Gift Cards'},
-				 {id: 3, title: 'Cookie Preferences'},
-				 {id: 4, title: 'Legal Notices'}
+			{id: 1, title: 'Media Center'},
+			{id: 2, title: 'Buy Gift Cards'},
+			{id: 3, title: 'Cookie Preferences'},
+			{id: 4, title: 'Legal Notices'}
 			]
 		}
 	}
